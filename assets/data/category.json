@@ -1,0 +1,58 @@
+[
+  {
+    "image": "assets/image/mexican.png",
+    "title": "Mexican"
+  },
+  {
+    "image": "assets/image/fast_food.png",
+    "title": "Fast Food"
+  },
+  {
+    "image": "assets/image/health.png",
+    "title": "Healthy"
+  },
+  {
+    "image": "assets/image/pizza.png",
+    "title": "Pizza"
+  },
+  {
+    "image": "assets/image/asian.png",
+    "title": "Asian"
+  },
+  {
+    "image": "assets/image/bakery.png",
+    "title": "Bakery"
+  },
+  {
+    "image": "assets/image/sandwich.png",
+    "title": "Sandwich"
+  },
+  {
+    "image": "assets/image/sushi.png",
+    "title": "Sushi"
+  },
+  {
+    "image": "assets/image/korean.png",
+    "title": "Korean"
+  },
+  {
+    "image": "assets/image/vietnamese.png",
+    "title": "Vietnamese"
+  },
+  {
+    "image": "assets/image/vegan.png",
+    "title": "Vegan"
+  },
+  {
+    "image": "assets/image/bubble_tea.png",
+    "title": "Bubble Tea"
+  },
+  {
+    "image": "assets/image/juice.png",
+    "title": "Juice & Smoothies"
+  },
+  {
+    "image": "assets/image/burgers.png",
+    "title": "Burgers"
+  }
+]

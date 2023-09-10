@@ -1,0 +1,10 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Settings Icon">
+<circle id="Ellipse 24" cx="12" cy="12" r="10" fill="black"/>
+<line id="Line 13" x1="12" x2="12" y2="24" stroke="black" stroke-width="3"/>
+<line id="Line 14" y1="-1.5" x2="24" y2="-1.5" transform="matrix(1 0 0 -1 0 11.5)" stroke="black" stroke-width="3"/>
+<line id="Line 15" y1="-1.5" x2="24" y2="-1.5" transform="matrix(0.707107 -0.707107 -0.707107 -0.707107 3.5 19.9707)" stroke="black" stroke-width="3"/>
+<line id="Line 16" x1="19.9096" y1="21.0314" x2="2.93899" y2="4.0608" stroke="black" stroke-width="3"/>
+<circle id="Ellipse 25" cx="12" cy="12" r="8" fill="white"/>
+</g>
+</svg>

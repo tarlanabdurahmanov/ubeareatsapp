@@ -1,0 +1,13 @@
+<svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Home">
+<line id="Line 44" x1="2.87939" y1="10.2695" x2="2.87939" y2="20.9648" stroke="black"/>
+<line id="Line 46" x1="7.39648" y1="21" x2="7.39648" y2="13.8343" stroke="black"/>
+<line id="Line 48" x1="14.9668" y1="14.4434" x2="7.20013" y2="14.4434" stroke="black"/>
+<line id="Line 49" x1="18.9653" y1="20.752" x2="14.2487" y2="20.752" stroke="black"/>
+<line id="Line 50" x1="7.24121" y1="20.752" x2="2.37914" y2="20.752" stroke="black"/>
+<line id="Line 47" x1="14.6665" y1="20.9082" x2="14.6665" y2="13.9165" stroke="black"/>
+<line id="Line 45" x1="19.4312" y1="10.2695" x2="19.4312" y2="20.9648" stroke="black"/>
+<line id="Line 52" y1="-0.5" x2="15.9355" y2="-0.5" transform="matrix(0.649167 -0.760646 0.73878 0.673947 1 13.1211)" stroke="black"/>
+<line id="Line 53" y1="-0.5" x2="15.9355" y2="-0.5" transform="matrix(-0.649167 -0.760646 -0.73878 0.673947 21 13.1211)" stroke="black"/>
+</g>
+</svg>
